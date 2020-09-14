@@ -1,0 +1,42 @@
+---
+title: "Homework 3"
+output: html_document
+author: "Your Name"
+---
+
+## Paper
+
+Read this paper:
+
+https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303770
+
+## Summary
+
+Delete this text and write a brief one paragraph summary of the paper highlighting what you consider to be the key parts of the analysis. 
+
+## Audience
+
+Delete this text and answer who you think the target audience of this paper is? 
+
+## Question Type
+
+Delete this text and answer what kind of question (descriptive, exploratory, inferenential, predictive, casual, or mechanistic) is this paper trying to answer? 
+
+## Question
+
+Delete this tesxt and answer what is the main question the paper is trying to answer? 
+
+## Data
+
+Delete this text and answer whether the data for this analysis seems easy to access from the description in the paper - can you find it? 
+
+## Comparison
+
+Delete this text and compare the analysis in the case study: https://opencasestudies.github.io/ocs-police-shootings-firearm-legislation/ocs-police-shootings-firearm-legislation.html
+to the paper: https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303770. Do they get exactly the same numbers? Figures? Do they come to the same conclusions? 
+
+## Figures
+
+Delete this text and answer whether you think the figures in the paper are better or worse than the ones in the Open Case Study? Would you replace any of the figures in the paper with figures
+from the open case study? 
+
