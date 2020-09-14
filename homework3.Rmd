@@ -30,6 +30,11 @@ Delete this tesxt and answer what is the main question the paper is trying to an
 
 Delete this text and answer whether the data for this analysis seems easy to access from the description in the paper - can you find it? 
 
+## Chain of Custody
+
+Delete this text and answer what is the raw data to the people creating the case studies? What is the processed data? What is the recipe? 
+
+
 ## Comparison
 
 Delete this text and compare the analysis in the case study: https://opencasestudies.github.io/ocs-police-shootings-firearm-legislation/ocs-police-shootings-firearm-legislation.html
